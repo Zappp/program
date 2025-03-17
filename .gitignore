@@ -1,0 +1,4 @@
+valid_codes.txt
+.cache/
+dist/
+node_modules/
